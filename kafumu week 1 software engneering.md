@@ -9,7 +9,7 @@ Explain what software engineering is and discuss its importance in the technolog
 **Software engineering** is the branch of computer science that deals with the design, development, testing, and maintenance of software applications.
 
 **Importance of software engineering in the technology industry is as follows**
-1.Helps in designing computer applications such as games where games can be used to earn money and refreshment, However helps in designing commercial applications which may be sold to public for simplification of work.
+1.Helps in designing computer applications such as games where games can be used to earn money and refreshment, However, helps in designing commercial applications which may be sold to public for simplification of work.
 
 2.Helps in designing systems for public and organizations where systems designed leads to interactions between user and computer in daily uses of electronics.
 
