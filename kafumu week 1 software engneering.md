@@ -118,7 +118,7 @@ The developer is responsible for writing the code and developing the entire soft
 4.Report to the project manager about the progress of the software development.
 
 (b)**Quality Assuarance Engineer**
-The QA or quality assurance engineer creates tests that identify issues with software before it is deployed. 
+The QA or quality assurance engineer creates tests that identify issues with software before it is deployed.
 QA engineers monitor every phase of the software development process, including development, testing, debugging and delivery. They ensure that quality is maintained at every stage of the development process and that the final product meets the requirements.
 
 **Responsibilities**
@@ -278,3 +278,9 @@ The improved prompt is more effective because:
 1.Clear: It specifies the desired task (writing an essay) and the topic (Siberian tiger).
 2.Specific: It provides a specific example of an animal, eliminating ambiguity.
 3.Concise: It provides clear guidelines for length (200 words), ensuring focus and coherence.
+
+**references**
+1.linkedin
+2.Gemini AI
+3.https://www.deazy.com/knowledge-hub/software-development-team-roles-and-responsibilities#:~:text=The%20developer%20is%20responsible%20for,the%20designer%20and%20QA%20engineer.
+4.https://www.geeksforgeeks.org/software-engineering-software-evolution/
